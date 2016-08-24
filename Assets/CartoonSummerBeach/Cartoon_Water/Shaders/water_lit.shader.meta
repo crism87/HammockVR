@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 89cc35fdb8f50a64f82002aa31f4a364
+timeCreated: 1464560737
+licenseType: Store
+ShaderImporter:
+  defaultTextures:
+  - _WaterDiffuse: {fileID: 2800000, guid: 00556256e03ab764f9db35d85132d72b, type: 3}
+  - _Noise: {fileID: 2800000, guid: 38f021290d87f034892dc2b3d522dce6, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
